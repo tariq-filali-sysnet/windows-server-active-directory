@@ -2,7 +2,7 @@
 
 Compte rendu général des travaux pratiques réalisés pendant ma formation en **Infrastructure Digitale (option Systèmes et Réseaux)**.
 
-📄 **Document complet :** [Compte_rendu_general_M202.pdf](Compte_rendu_general_M202.pdf)
+📄 **Document complet :** [Compte rendu général M202 (PDF)](windows-server-active-directory.pdf)
 
 ## Contenu
 
