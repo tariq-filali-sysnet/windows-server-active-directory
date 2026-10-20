@@ -19,6 +19,7 @@ Compte rendu général des travaux pratiques réalisés pendant ma formation en 
 - Administration des OU en PowerShell
 - Création de groupes et d'utilisateurs (TECHLOG-CORP)
 - Réinstallation d'un RODC sur Server Core
+### DHCP et DHCP Failover Windows Server Interface Graphique - Core 
 
 ## Outils
 Windows Server 2019, Active Directory Domain Services, DNS, PowerShell, Hyper-V, VMware Workstation, Windows 10
